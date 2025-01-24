@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cee053f0a75a41344b6550d2c38de15b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - speedInput: {fileID: 491523183428001669, guid: c54e466baff325a4f9ce3a4ea06fda49, type: 3}
+  - timeInput: {instanceID: 0}
+  - rotationSpeedInput: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

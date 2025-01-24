@@ -1,0 +1,20 @@
+[
+  {
+    "speed": 1.0,
+    "rotationSpeed": 0.0,
+    "action": "move forward",
+    "duration": 2.01032352
+  },
+  {
+    "speed": 0.0,
+    "rotationSpeed": 90.0,
+    "action": "rotate",
+    "duration": 7.999724
+  },
+  {
+    "speed": 1.0,
+    "rotationSpeed": 0.0,
+    "action": "move forward",
+    "duration": 1.02740288
+  }
+]

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{B3974659-0405-F0A2-AC79-CB6A0D8F06DD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RobotContoroller.cs">
+    <Files>
+      <File FileName="Assets/RobotContoroller.cs" Line="159" Column="1" />
+      <File FileName="Assets/RobotCombination.cs" Line="57" Column="39" />
+      <File FileName="Assets/RobotController2.cs" Line="38" Column="1" />
+      <File FileName="Assets/TurtlebotController.cs" Line="26" Column="30" />
+      <File FileName="Library/PackageCache/com.unity.robotics.ros-tcp-connector@c27f00c6cf/Runtime/TcpConnector/ROSConnection.cs" Line="11" Column="24" />
+      <File FileName="Assets/SpringMovement.cs" Line="57" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="myproject6" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="RobotContoroller.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="12a3687a-eb43-462b-8f9b-2b9e7ac3e76b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
