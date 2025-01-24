@@ -1,0 +1,32 @@
+[
+  {
+    "speed": 1.0,
+    "rotationSpeed": 0.0,
+    "action": "MoveForward",
+    "duration": 0.0
+  },
+  {
+    "speed": 1.0,
+    "rotationSpeed": 0.0,
+    "action": "MoveForward",
+    "duration": 0.0
+  },
+  {
+    "speed": 1.0,
+    "rotationSpeed": 0.0,
+    "action": "MoveBackward",
+    "duration": 0.0
+  },
+  {
+    "speed": 1.0,
+    "rotationSpeed": 0.0,
+    "action": "MoveBackward",
+    "duration": 0.0
+  },
+  {
+    "speed": 1.0,
+    "rotationSpeed": 0.0,
+    "action": "RotateLeft",
+    "duration": 0.0
+  }
+]
