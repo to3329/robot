@@ -1,1 +1,7 @@
 myenv/
+venv
+*.cs
+robot_extraction.py
+.gitattributes
+yolov5s.pt
+training_results.png
