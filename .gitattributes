@@ -1,2 +1,7 @@
 myenv/lib/python3.12/site-packages/torch/lib/libtorch_cpu.dylib filter=lfs diff=lfs merge=lfs -text
 *.npy filter=lfs diff=lfs merge=lfs -text
+*.cs
+robot_extraction.py
+.gitattributes
+yolov5s.pt
+training_results.png
